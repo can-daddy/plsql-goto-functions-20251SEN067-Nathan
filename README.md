@@ -34,7 +34,7 @@ Follow these steps to configure your environment and run the project scripts:
 * **Password:** *(your password)*
 * **Hostname:** `localhost`
 * **Port:** `1521`
-* **Connection Type:** `SID` $\rightarrow$ `XE`
+* **Connection Type:** `SID`
 
 
 3. Click **Test Connection**. Once successful, save the connection.
