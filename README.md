@@ -1,4 +1,9 @@
-# Oracle PL/SQL Development & Payroll Management System
+# Oracle PL/SQL Development Assignment III
+
+**Prepared by:** Shema Can Daddy Nathan
+**Reg No:** 20251SEN067
+**Group B**
+**Prepared For:** Education Purpose
 
 A practical implementation of procedural database programming, control structures, and stored PL/SQL functions using Oracle Database 21c and Visual Studio Code.
 
