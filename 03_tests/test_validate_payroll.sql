@@ -1,0 +1,1 @@
+SELECT employee_id, fn_validate_payroll(employee_id) AS status FROM employees;
